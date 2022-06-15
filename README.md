@@ -1,4 +1,4 @@
-# Turo Demo Project
+# Springboot Demo Project
 This is to demonstrate the use of the following libraries and frameworks by
 implementing a simple CRUD application for a User endponts.
 
